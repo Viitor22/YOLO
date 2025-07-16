@@ -33,12 +33,11 @@ Ensure your dataset is preprocessed and formatted correctly (e.g., images and co
    ```bash
    pip install -r requirements.txt
    ```
-3. Start training:
-   Launch the Jupyter Notebook:
-   
+3. Launch the Jupyter Notebook:
+   ```bash
    jupyter notebook
-   
-   Open YOLO.ipynb and follow the instructions in the cells to train and test the model.
+   ```
+4. Open `YOLO.ipynb` and follow the instructions in the cells to train and test the model.
 
 ### 📌 Contributing
 Feel free to fork this repository and contribute with improvements, optimizations, or new features!
@@ -78,12 +77,11 @@ Certifique-se de que os dados estejam pré-processados e formatados corretamente
    ```bash
    pip install -r requirements.txt
    ```
-3. Inicie o treinamento:
-   Inicie o Jupyter Notebook:
-   
+3. Inicie o Jupyter Notebook:
+   ```bash
    jupyter notebook
-   
-   Abra o arquivo YOLO.ipynb e siga as instruções das células para treinar e testar o modelo.
+   ```
+4. Abra o arquivo `YOLO.ipynb` e siga as instruções das células para treinar e testar o modelo.
 
 ### 📌 Contribuição
 Fique à vontade para fazer um fork do repositório e contribuir com melhorias, otimizações ou novas funcionalidades!
